@@ -1,0 +1,54 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "employeeId": "emp001",
+      "employeeName": "John Doe",
+      "managerId": "mgr001",
+      "year": 2024,
+      "quarter": 1,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What were your key achievements this quarter?",
+          "answer": "Successfully delivered Project X ahead of schedule and led team training sessions."
+        },
+        {
+          "id": 2,
+          "question": "What areas do you think need improvement?",
+          "answer": "Time management and delegation skills could be enhanced."
+        },
+        {
+          "id": 3,
+          "question": "What are your goals for the next quarter?",
+          "answer": "Complete advanced certification and mentor junior team members."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "employeeId": "emp002",
+      "employeeName": "Jane Smith",
+      "managerId": "mgr001",
+      "year": 2024,
+      "quarter": 1,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What were your key achievements this quarter?",
+          "answer": "Improved system performance by 30% and implemented new testing framework."
+        },
+        {
+          "id": 2,
+          "question": "What areas do you think need improvement?",
+          "answer": "Documentation practices and cross-team communication."
+        },
+        {
+          "id": 3,
+          "question": "What are your goals for the next quarter?",
+          "answer": "Lead the migration project and improve team documentation processes."
+        }
+      ]
+    }
+  ]
+}
